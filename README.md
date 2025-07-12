@@ -1,52 +1,29 @@
-✍️ Flutter Signature View
-A Flutter app that provides a simple and smooth signature drawing view.
-Users can draw their signature on the screen and clear or save it easily.
+# Flutter Signature View ✍️
 
-This project demonstrates custom painting and touch handling in Flutter.
+A **Flutter Signature View app** that allows users to draw signatures on screen, clear them, and optionally save them as images.  
 
-🚀 Features
-Draw freehand signatures on a canvas
+This project demonstrates how to build a smooth and responsive signature pad using Flutter's `CustomPaint` widget and gesture detection.
 
-Clear the signature
+## 🚀 Features
+- Smooth freehand signature drawing
+- Clear the signature canvas
+- Save signature as an image (optional)
+- Clean and responsive UI
+- Easy to integrate into other apps
 
-Export signature as an image (optional)
+## 📷 Screenshots
+*(Add your app screenshots here, if available!)*
 
-Responsive and smooth drawing
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/)
+- Dart
+- CustomPaint & GestureDetector
 
-Easy to integrate into other projects
-
-🛠️ Built With
-Flutter 💙
-
-Dart
-
-custom_paint widget
-
-📦 How to Run
-1️⃣ Clone the repository:
-
-bash
-Copy
-Edit
+## 📦 How to Run
+1️⃣ Clone this repository:
+```bash
 git clone https://github.com/Gouravlamba/flutterSignatureView.git
-2️⃣ Navigate to the project folder:
 
-bash
-Copy
-Edit
-cd flutterSignatureView
-3️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-flutter pub get
-4️⃣ Run the app:
-
-bash
-Copy
-Edit
-flutter run
 # Launch Screen Assets
 
 You can customize the launch screen with your own desired assets by replacing the image files in this directory.
