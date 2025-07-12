@@ -1,2 +1,5 @@
-# fluttersignatureview
-This is a simple Flutter app that allows users to draw and capture signatures on the screen. It provides a smooth, responsive canvas where users can sign using touch gestures, and the signature can be saved or cleared.
+# Launch Screen Assets
+
+You can customize the launch screen with your own desired assets by replacing the image files in this directory.
+
+You can also do it by opening your Flutter project's Xcode project with `open ios/Runner.xcworkspace`, selecting `Runner/Assets.xcassets` in the Project Navigator and dropping in the desired images.
